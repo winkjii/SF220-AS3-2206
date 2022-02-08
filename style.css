@@ -1,0 +1,21 @@
+body {color: #FF3366;
+      background-color: #FF9999;
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+}
+h1 {color: #FF3366;
+    background-color: #FFFFCC;
+    text-align: center;
+ }
+nav {color: #000000}
+h2 {color: #000000}
+ul {color: #000000;
+    font-style: italic;
+}
+dl {color: #000000}
+footer {color: #FF3366;
+        background-color: #FFFFCC;
+        text-align: center;
+}
+
